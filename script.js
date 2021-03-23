@@ -1,6 +1,6 @@
-alert("Hello my name is Sergiy!");
-document.write("Hello");
+const conf =  confirm ('Continue?');
+console.log(conf);
 
-document.write('Who are you?');
-var name = 'Sergiy';
-console.log (name);
+
+const city = prompt('Where are you live?');
+console.log(city);
